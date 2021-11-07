@@ -20,12 +20,26 @@ Highest Score: 1494
 ![Dino Gif](_doc/dino.gif)
 
 # Steps
+Input Image:
+
 ![Image 1](_doc/75-image1.png)
+
+Layer 2:
 ![Image 2](_doc/75-image2.png)
+
+Layer 3:
 ![Image 3](_doc/75-image3.png)
+
+Layer 4:
 ![Image 4](_doc/75-image4.png)
+
+Layer 5:
 ![Image 5](_doc/75-image5.png)
+
+Layer 6:
 ![Image 6](_doc/75-image6.png)
+
+Final:
 ![Image 7](_doc/75-image7.png)
 
 # Future Works
