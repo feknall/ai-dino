@@ -1,6 +1,15 @@
 # ai-dino
 This repository contains different implementations for the dino game.
 
+# How to Use
+Currently using this code is a little tricky. I recommend to wait for the future versions. However, these are the steps that you should follow:
+1. Clone the project
+2. Open [http://wayou.github.io/t-rex-runner](http://wayou.github.io/t-rex-runner) in your browser
+3. Run the project and immediatly switch to the tab that you have just opened within 5 second (there is a line in the code that creates 5 seconds delay)
+4. Press the 'space' button to start the game and do not switch between tabs
+5. That's it! The project will capture an specific area of your screen and will call 'space' and 'down' keys according to the position of object.
+
+
 # Implemented Algorithms
 - The most simple and stupid algorithm ever by processing image and detecting objects using simple threshold
 
