@@ -15,7 +15,7 @@ Currently using this code is a little tricky. I recommend to wait for the future
 
 
 # Result
-Highest Score: 1491
+Highest Score: 1494
 
 ![Dino Gif](_doc/dino.gif)
 
