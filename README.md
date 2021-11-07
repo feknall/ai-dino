@@ -7,6 +7,7 @@ This repository contains different implementations for the dino game.
 
 # Result
 Highest Score: 1491
+
 ![Dino Gif](_doc/dino.gif)
 
 # Steps
