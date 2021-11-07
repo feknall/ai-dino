@@ -16,4 +16,4 @@ This repository contains different implementations for the dino game.
 
 
 # References
-http://wayou.github.io/t-rex-runner/
+This implementation uses [t-rext-runner](https://github.com/wayou/t-rex-runner).
