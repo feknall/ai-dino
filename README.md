@@ -20,31 +20,31 @@ Highest Score: 1494
 ![Dino Gif](_doc/dino.gif)
 
 # Steps
-Layer 1 (Taking an screenshot of the game):
+Layer 1: Taking an screenshot of the game state:
 
 ![Image 1](_doc/75-image1.png)
 
-Layer 2:
+Layer 2: Detecting dino by using OpenCV "match template":
 
 ![Image 2](_doc/75-image2.png)
 
-Layer 3:
+Layer 3: Converting image from RGB to Grayscale
 
 ![Image 3](_doc/75-image3.png)
 
-Layer 4:
+Layer 4: Removing background
 
 ![Image 4](_doc/75-image4.png)
 
-Layer 5:
+Layer 5: Converting Grayscale to Binary
 
 ![Image 5](_doc/75-image5.png)
 
-Layer 6:
+Layer 6: Doing bitwise operation
 
 ![Image 6](_doc/75-image6.png)
 
-Final:
+Final: Detecting countours and putting the detected dino (Layer 2) to the final image
 
 ![Image 7](_doc/75-image7.png)
 
