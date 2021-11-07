@@ -20,7 +20,7 @@ Highest Score: 1494
 ![Dino Gif](_doc/dino.gif)
 
 # Steps
-Input Image:
+Layer 1 (Taking an screenshot of the game):
 
 ![Image 1](_doc/75-image1.png)
 
