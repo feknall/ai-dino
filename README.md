@@ -2,11 +2,11 @@
 This repository contains different implementations for the dino game.
 
 # How to Use
-# Video
+## Video
 There is a quick demo that shows you how to use this project.
 
 [![Video Demo](https://github.com/feknall/ai-dino/blob/master/_doc/demo_screenshot.png)](https://www.youtube.com/watch?v=ZYUOoD8heUI)
-# Text
+## Text
 Currently using this code is a little tricky. I recommend to wait for the future versions. However, these are the steps that you should follow:
 1. Clone the project
 2. Open [http://wayou.github.io/t-rex-runner](http://wayou.github.io/t-rex-runner) in your browser
