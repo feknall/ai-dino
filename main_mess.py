@@ -1,9 +1,8 @@
 # pip install opencv-contrib-python==4.4.0.46
 # http://wayou.github.io/t-rex-runner/
 from pynput.keyboard import Key, Controller
-import math
 
-keyboard =   Controller()
+keyboard = Controller()
 
 import random
 
