@@ -2,6 +2,8 @@
 This repository contains different implementations for the dino game.
 
 # How to Use
+You can watch a video or use a text tutorial.
+
 ## Video
 There is a quick demo that shows you how to use this project.
 
